@@ -23,7 +23,7 @@ User Profile Management: The GetUserProfile function is called upon successful l
 API Integration: Utilizes X-Goog-FieldMask to request specific data from the Google API as needed.  
 
 Setup & Installation  
-Clone the repository: git clone https://github.com/Sathyapal02/Trip-planner-Website.git  
+Clone the repository: git clone https://github.com/Sathyapal02/project-1.git    
 Install dependencies: npm install  
 Set up Firebase and Gemini AI API keys in the .env file.  
 Start the development server: npm start  
